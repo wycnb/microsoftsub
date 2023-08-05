@@ -9,9 +9,6 @@ def start_concentration_clock(minutes):
         time.sleep(1)
         total_seconds -= 1
 
-    print("时间到！")
+    print("！")
 
-# 设置专注时间为25分钟
-concentration_time = 25
 
-start_concentration_clock(concentration_time)
